@@ -1,0 +1,614 @@
+Nuove meccaniche
+La difesa dei tipi ghiaccio aumenta del 50% durante la grandine
+Erbaiuto, Aiutofuoco, Acquaiuto e Aiutinsetto aumentano del 100% la potenza delle mosse di quel tipo
+Fugafacile aumenta l'elusione quando i PS sono sotto il 25%
+Antifuoco rende immune alle mosse fuoco
+Le abilità Mutatipo, Libero, Traccia sono rimosse
+Le mosse Baratto, Giocodiruolo sono rimosse
+Due nuovi strumenti
+	Alolan Stone: Se tenuta da Pikachu, Cubone o Exeggute si evolvono nella rispettiva forma Alola
+	Galarian Stone: Se tenuta da Koffing si evolve nella sua forma Galar
+Nuove categorie di mosse
+	Mosse eteree: Ventargenteo, Raffica, Turbine, Tifone, Aerocolpo, Eterelama, Aerasoio, Ventoincoda, Scacciabruma, Ondacalda, Ventogelato,
+		      Bora, Vorticerba, Verdebufera, Vento di fata, Funestovento
+	Mosse lama: Conchilama, Lama Solare, Taglio, Falsofinale, Fendifoglia, Psicotaglio, Forbice X, Spada Solenne, Spada Mistica
+	Mosse calcio: Doppiocalcio, Megacalcio, Calciosalto, Calciorullo, Calciobasso, Calcinvolo, Triplocalcio, Calciardente, Tropicalcio
+Eevee ed evo, se tengono una di queste pietre, ottengono come tipo secondario il tipo dell'eevolution che si ottiene con quella pietra
+	Pietralbore		TIPO1	Normale
+	Pietrafocaia 		TIPO1	Fuoco
+	Pietratuono		TIPO1	Elettro
+	Pietraidrica		TIPO1	Acqua
+	Pietralsolare		TIPO1	Psico
+	Pietralunare		TIPO1	Buio
+	Pietrafoglia		TIPO1	Erba
+	Pietragelo		TIPO1	Ghiaccio
+	Pietrabrillio		TIPO1	Folletto
+Genesect ottiene uno stab in base al disco che tiene
+	Shockdrive		Elettro
+	Burndrive		Fuoco
+	Dousedrive		Acqua
+	Chilldrive		Ghiaccio
+Tecnicamente i Pokemon possono tenere due strumenti contemporaneamente
+	Di fatto sta funzionalità è bloccata solo alla IA per poter dare sia uno strumento esclusivo, sia una megapietra
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Metodi evolutivi nuovi/modificati
+Kadabra		-> Alakazam	Livello 38
+Graveler	-> Golem	Livello 38
+Machoke		-> Machamp	Livello 42
+Kirlia		-> Gardevoir	Livello 30 se femmina
+Kirlia		-> Gallade	Livello 30 se maschio
+Dusklops	-> Dusknoir	Livello 54 di notte
+Snorunt		-> Glalie	Livello 42 se maschio
+Snorunt		-> Glalie	Livello 42 se femmina
+Clamperl	-> Huntail	Livello 30 di notte
+Clamperl	-> Gorebyss	Livello 30 di giorno
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Meteo richiesto strumenti esclusivi per tipo
+
+WHITEGEM	Protezione status	Psychic Terrain
+FIERYGEM	Protezione status	Sun
+AQUAGEM		Protezione status	Rain
+GRASSGEM	Aumenta Velocità	Sun
+THUNDERGEM	Aumenta Velocità	Electric Terrain
+ICYGEM		Protezione status	Hail
+FIGHTGEM	Aumenta Velocità	----------------
+POISONGEM	Protezione status	Psychic Terrain
+EARTHGEM	Protezione status	Sandstorm
+SKYGEM		Aumenta Velocità	----------------
+PSYCHEGEM	Protezione status	Misty Terrain
+GUARDGEM	Protezione status	----------------
+STONEGEM	Aumenta Velocità	Sandstorm
+SHADOWGEM	Aumenta Velocità	Misty Terrain
+DRAGONGEM	Protezione status	----------------
+DARKGEM		Protezione status	Misty Terrain
+METALGEM	Protezione status	Sandstorm
+CUTEGEM		Protezione status	Misty Terrain
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Strumenti Esclusivi
+Questi funzionano su tutti i Pokemon che hanno un determinato tipo
+
+Strumenti Esclusivi - Aumento statistiche (10%)
+Attacco
+WHITESILK
+FIREDUST
+THUNDERDUST
+ORANGESILK
+COURAGESILK
+PINKSILK
+POISONDUST
+BROWNSILK
+SKYSILK
+PSYCHEDUST
+GREENSILK
+WONDERDUST
+GRAYSILK
+PURPLESILK
+ROYALSILK
+BLACKSILK
+IRONSILK
+MAGICSILK
+
+Difesa
+WHITESILK
+WATERDUST
+GRASSDUST
+ICYDUST
+ORANGESILK
+PINKSILK
+BROWNSILK
+GROUNDDUST
+SKYSILK
+GREENSILK
+GRAYSILK
+ROCKDUST
+PURPLESILK
+DRAGONDUST
+DARKDUST
+IRONSILK
+STEELDUST
+CUTEDUST
+
+Attacco Speciale
+NORMALDUST
+REDSILK
+FIREDUST
+BLUESILK
+GRASSSILK
+YELLOWSILK
+THUNDERDUST
+CLEARSILK
+COURAGESILK
+POISONDUST
+SKYDUST
+GOLDSILK
+PSYCHEDUST
+WONDERDUST
+SHADYDUST
+ROYALSILK
+BLACKSILK
+CUTEDUST
+
+Difesa Speciale
+NORMALDUST
+REDSILK
+BLUESILK
+WATERDUST
+GRASSSILK
+GRASSDUST
+YELLOWSILK
+CLEARSILK
+ICYDUST
+GROUNDDUST
+SKYDUST
+GOLDSILK
+ROCKDUST
+SHADYDUST
+DRAGONDUST
+DARKDUST
+STEELDUST
+MAGICSILK
+
+Strumenti esclusivi - Immunità ad attacchi di un certo tipo
+
+Nome Strum.	Tipo richiesto	Mosse a cui è immune
+-----------------------------------------------------
+JOYGLOBE	NORMAL		FIGHTING
+FIERYGLOBE	FIRE		WATER
+AQUAGLOBE	WATER		ELECTRIC
+SOOTHEGLOBE	GRASS		FIRE
+VOLTGLOBE	ELECTRIC	GROUND
+ICYGLOBE	ICE		FIRE
+POWERGLOBE	FIGHTING	PSYCHIC
+POISONGLOBE	POISON		GROUND
+TERRAGLOBE	GROUND		GRASS
+SKYGLOBE	FLYING		ELECTRIC
+PSYCHEGLOBE	PSYCHIC		DARK
+DEFENDGLOBE	BUG		FLYING
+ROCKGLOBE	ROCK		STEEL
+NETHERGLOBE	GHOST		GHOST
+DRAGONGLOBE	DRAGON		DRAGON
+DUSKGLOBE	DARK		FIGHTING
+STEELGLOBE	STEEL		GROUND
+MAGICGLOBE	FAIRY		POISON
+
+Questi funzionano solo su determinati Pokemon (l'intera famiglia)
+
+Strumenti esclusivi - Recupero PS
+
+Nome Strum.	Famiglia PKMN	Mosse a cui è immune
+-----------------------------------------------------
+DRAGONSCALE	KINGDRA		DRAGON
+PRISMSCALE	MILOTIC		ELECTRIC
+BLOCKINGBOW	MASQUERAIN	ROCK
+IRONHELMET	AGGRON		FIGHTING
+NINJARUFF	NINJASK		ROCK
+AWEMANTLE	SHEDINJA	GHOST
+BOUQUETCAPE	ROSERADE	FIRE
+LAZYRUFF	SLAKING		FIGHTING
+HUGEBOW		WAILORD		ELECTRIC
+PROTECTMASK	MANECTRIC	GROUND
+OMINOUSTORC	BANETTE		GHOST
+SALACAPE	SALAMENCE	ICE
+SUMODRAPE	HARIYAMA	PSYCHIC
+
+Strumenti esclusivi - Effetti aggiuntivi
+
+Nome Strum.	Famiglia PKMN	Effetto
+-----------------------------------------------------
+SOOTYSASH	TORKOAL		Scottatura al contatto
+DRACOBLADE	SCEPTILE	Potenzia mosse drago
+TENTACAPE	TENTACRUEL	Mosse veleno possono paralizzare
+MAWIBRACE	MAWILE		Mosse morso possono tentennare
+WARNINGSCARF	ABSOL		Aumenta l'elusione se la mossa ha più di 100 BP
+LOUDAMPLIFIER	EXPLOUD		Mosse sonore super su acciaio e roccia
+MININOSE	PROBOPASS	Potenzia mosse elettro
+MAGICFEATHER	ALTARIA		Potenzia mosse folletto
+SOLSHARD	SOLROCK		Mosse speciali forti durante il giorno
+LUNASHARD	LUNATONE	Mosse speciali forti durante la notte
+WALFANG		WALREIN		Raddoppia la velocità con la grandine
+OCTACORECPU	METAGROSS	Gli attacchi sono infallibili
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Nuove forme
+
+Machoke, Machamp: cambia forma quando i ps sono meno del 50%
+
+Machoke
+		Normale			Senza cinturone
+PS:		80				80
+Atk:		100				140	(+40)
+Def:		70				90 	(+20)
+Atk.Sp:		50				50
+Def.Sp:		60				70	(+10)
+Vel:		45				65	(+20)
+---------------------------------------------------------------
+						+90
+
+Machamp
+		Normale			Senza cinturone
+PS:		90				90
+Atk:		130				180 	(+40)
+Def:		80				100 	(+20)
+Atk.Sp:		65				65
+Def.Sp:		85				95	(+10)
+Vel:		55				75	(+20)
+---------------------------------------------------------------
+						+90
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Cambiamenti a forme già esistenti
+Cherrim: cambia forma se c'è il sole o se è mattina/giorno
+
+Cambiamenti a Pokemon
+Masquerain diventa Coleottero/Acqua con levitazione
+Huntail diventa Acqua/Buio
+Gorebyss diventa Acqua/Psico
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Modifica alle mosse	Tipo			Potenza		PP		Effetti secondari aggiunti
+Assorbimento					20 -> 40	25 -> 20						Come in LGPE
+Megassorbimento 				40 -> 60	15							Versione indebolita di LGPE
+Gigassorbimento 				75 -> 80	10		
+Acido 						40 -> 60	30 -> 20	Superefficace sui tipi acciaio
+Taglio	 					50 -> 60	30 -> 20	Superefficace sui tipi erba
+Spaccaroccia					40		15		Danno doppio sui tipi roccia (x4)
+Ventagliente					80 -> 200	10
+Forza			Normale -> Lotta	80 -> 100
+Attacco Pioggia		Normale -> Erba
+Fanghiglia									Fa danno terra e acqua
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Strumenti con effetto diverso
+Magmatore: Se tenuto da Magby, Magmar e Magmortar rende di tipo fuoco le mosse normali
+Elettritore: Se tenuto da Elekid, Electabuzz e Electivire rende di tipo elettro le mosse normali
+Copertura: Aumenta del 25% la difesa e la difesa speciale di Rhyhorn, Rhydon e Rhyperior
+Squama abissi: Aumenta del 100% la difesa speciale di Clamperl, Gorebyss e Huntail
+Dente abissi: Aumenta del 100% l'attacco speciale di Clamperl, Gorebyss e Huntail
+Upgrade: Aumenta del 25% l'attacco speciale di Porygon, Porygon2 e Porygon-Z
+Dubbiodisco: Aumenta del 50% l'attacco speciale di Porygon, Porygon2 e Porygon-Z ma ha il 50% di confondere
+Terrorpanno: Se tenuto da Duskull, Dusklops e Dusknoir permette di attaccare i Pokemon di tipo normale con le mosse spettro
+Dolcespuma: Aumenta del 50% la potenza delle mosse folletto di Swirlix e Slurpuff
+Bustina aromi: Aumenta del 50% la potenza delle mosse folletto di Spritzee e Aromatisse
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Nuove categorie
+Mosse eteree: Ventargenteo, Raffica, Turbine, Tifone, Aerocolpo, Eterelama, Aerasoio, Ventoincoda
+Mosse lama: Conchilama, Lama Solare, Taglio, Falsofinale, Fendifoglia, Psicotaglio, Forbice X, Spada Solenne, Spada Mistica
+
+Nuove abilità
+
+Steelpunch: Potenzia del 50% le mosse pugno
+- Hitmonchan
+
+Steelkick: Potenzia del 50% le mosse calcio
+- Hitmontop
+
+Bug Eater: Mosse erba super su colettero
+- Bellsprout, Weepinbell, Victreebel
+- Carnivine
+
+Freeze breath: Mosse ghiaccio super su acqua
+- Froslass
+- Cryogonal
+- Rotom Frigo
+
+Sweetbell: Potenzia le mosse sonore
+- Chimecho, Chingling
+- Whismur, Loudred, Exploud
+
+Rock Melting: Mosse fuoco super su roccia
+- Slugma,Magcargo
+- Numel, Camerupt
+
+Phoenix wings: Potenzia mosse fuoco e assorbe danno
+- Ho-oh
+
+Storm wings: Potenza mosse eteree e fa piovere
+- Lugia
+
+Hypno Therapy: 30% di confondere o addormentare (15% e 15%)
+- Hypno
+
+Sleep Therapy: Assorbe ps con gli attacchi psico se l'avversario dorme
+- Drowzee, Hypno
+
+Strange Horns: Può confondere al contatto
+- Stantler
+
+Sleepwalker: Attacca anche se dorme ma col 50% di danno
+- Girafarig
+- Slaking
+
+Swordsmanship: Potenzia le mosse lama
+- Grovyle, Sceptile
+- Gallade
+- Oshawott, Dewott, Samurott
+- Pawniard, Bisharp
+- Honedge, Doublade, Aegislash
+- Leavanny
+- Golisopod
+- Farfetch'd, Sirfetch'd
+- Kabutops
+- Terrakion, Virizion, Cobalion, Keldeo
+- Zacian
+
+Honor: Potenzia con avversario a livello più alto
+- Charizard
+
+Elemental Master: Stab a mosse Roccia, acciaio e ghiaccio
+- Regigigas
+
+Rock Master: Recupera ps con le mosse roccia
+- Regirock
+
+Ice Master: Non può essere scottato e le mosse fuoco non hanno effetto
+- Regice
+
+Metal Master: Subisce 1/2 di danno dalle mosse fisiche
+- Registeel
+
+Omnipotent: Tutte le mosse sono superefficaci
+- Arceus
+
+Sweetdreams: Le mosse psico fanno doppio danno ai pokemon addormentati e li svegliano
+- Cresselia
+
+Scarecrow: le mosse volanti fanno il 50% in meno di danno e non si può usare trespolo
+- Cacturne
+
+Spikybody: Spineferrate
+- Cacturne
+- Chesnaught
+
+Cannonbody: potenzia le mosse proiettile del 50%
+- Blastoise
+- Kingdra
+- Octillery
+- Magmortar
+- Genesect
+- Vikavolt
+- Golem Alola
+
+Nota: Mosse proiettile (Antiproiettile le annulla)
+- Fuocobomba, Cannonflash, Colpodifango
+
+Protective shell: aumenta del 50% le difese e diminuisce del 50% gli attacchi quando è ha meno del 50% dei ps
+- Squirtle, Wartortle, Blastoise
+- Torkoal
+- Turtwig, Grotle, Torterra
+- Tirtouga, Carracosta
+- Turtunator
+
+Spellcaster: potenzia le mosse fuoco, ghiaccio ed elettro del 20%
+- Mismagius
+- Braixen, Delphox
+
+Devicecontrol: Mosse spettro superefficaci sui tipi elettro
+- Rotom normale
+
+Airflow: potenzia le mosse eteree
+- Rotom vortice
+- Shiftry
+
+Lawnmower: Le mosse lama sono superefficaci sui tipi erba
+- Rotom tagliaerba
+
+Laundryday: Le mosse acqua resettano le statistiche
+- Rotom lavatrice
+
+Vampircic Fangs: Le mosse morso sono più forti e fanno recuperare PS
+- Zubat, Golbat, Crobat
+
+Parrot: Copia le mosse sonore
+- Chatot
+
+Legendary: Pressione + Vigore
+- Mewtwo
+- Lugia
+- Ho-Oh
+- Groudon
+- Kyogre
+- Rayquaza
+- Dialga
+- Palkia
+- Giratina
+- Regigigas
+- Arceus
+- Zekrom
+- Reshiram
+- Kyurem
+- Xerneas
+- Yveltal
+- Zygarde (Forma 100%)
+- Solgaleo, Lunala
+- Guzzlord
+
+Mime: Il Pokémon copia l'aumento di statistiche effettuato dai Pokémon in campo (Non presente nella versione di Hoenn)
+- Mime Jr., Mr. Mime
+
+Ninja: Le mosse speciali hanno priorità maggiore. Funziona solo se il Pokémon ha più del 50% di PS
+- Accelgor
+- Greninja
+
+Airborn: Stab a mosse volanti
+- Masquerain
+
+Steel Eater: Le mosse morso sono superefficaci sui tipi Acciaio
+- Aron, Lairon, Aggron
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Riassunto modifiche abilità
+
+Charizard				Aiutofuoco, Solarpotere, Honor
+Squirtle, Wartortle			Acquaiuto, Copripioggia, Protective Shield
+Blastoise				Acquaiuto, Copripioggia, Protective Shield, Cannon Body
+Zubat, Golbat, Crobat 			Forza Interiore, Intrapasso, Vampiric fangs
+Cloyster 				Guscioscudo, Abillegame, Copricapo, Antiproiettile (*)
+Bellsprout, Weepinbel, Victreebel	Clorofilla, Voracità, Bug Eater
+Golem Alola				Magnetismo, Vigore, Pellelettro, Cannon Body
+Drowzee					Insonnia, Presagio, Forza Interna, Sleep Therapy
+Hypno					Insonnia, Presagio, Forza Interna, Sleep Therapy, Hypno Therapy
+Hitmonchan				Sguardofermo, Forza Interna, Steel Punch (**)
+Hitmonlee				Scioltezza, Agiltecnica, Temerarietà, Steel Kick (**)
+Koffing, Weezing			Levitazione, Fumochiaro, Scoppio
+Elekid, Electabuzz, Electivire	 	Elettrorapid, Spiritovivo, Ferropugno (*)
+Farfetch'd				Sguardofermo, Forza Interiore, Agonismo, Swordsmanship
+Mime Jr., Mr. Mime (Kanto)		Antisuono, Filtro, Tecnico, Mime (**)
+Munchlax				Raccolta, Grassospesso, Voracità, Sleepwalker
+Snorlax					Immunità, Grassospesso, Voracità, Sleepwalker
+Mewtwo					Agitazione, Legendary
+
+Typhlosion 				Aiutofuoco, Fuocardore, Siccità (*)
+Totodile, Croconaw, Feraligatr 		Acquaiuto, Forzabruta, Ferromascella (*)
+Misdreavus, Mismagius 			Levitazione, Spellcaster
+Unown 					Levitazione, Magicspecchio
+Girafarig				Forza Interiore, Sveglialampo, Erbivoro, Sleep Walker
+Stantler				Prepotenza, Indagine, Erbivoro, Strange Horns (**)
+Slugma, Magcargo			Magmascudo, Sottilguscio, Rockmelting
+Sneasel,Weavile	 			Forza Interiore, Sguardofermo, Arraffalesto, Unghiedure (*)
+Octillery				Ventose, Cecchino, Altalena, Cannon Body
+Kingdra					Nuotovelox, Cecchino, Umidità, Cannon Body
+Lugia					Legendary, Multisquame, Stormwings
+Ho-Oh					Legendary, Rigeneratore, Phoenixwings
+
+Grovyle, Sceptile			Erbaiuto, Agiltecnica, Swordsmanship
+Shiftry					Clorofilla, Sveglialampo, Arraffalesto, Airflow
+Gallade					Cuordeciso, Giustizia, Swordsmanship
+Masquerain				Levitazione, Prepotenza, Airborn
+Slakoth, Slaking			Ciondolare (**), Ferropugno (*), Sleepwalker
+Whismur, Loudred, Exploud		Antisuono, Nervisaldi, Sweetbell
+Torkoal					Fumochiaro, Siccità, Guscioscudo, Protective Shell
+Vibrava, Flygon 			Levitazione, Sabbiavelo, Silicoforza, Lentifumè
+Numel					Indifferenza, Disinvoltura, Mentelocale, Rock Melting
+Camerupt				Magmascudo, Solidroccia, Grancollera, Rock Melting
+Cacnea					Sabbiavelo, Assorbacqua, Spikybody
+Cacturne				Sabbiavelo, Assorbacqua, Spikybody, Scarecrow
+Zangoose				Unghiedure (*), Velenimpeto			(Perde immunità a causa del conflitto con Velenimpeto)
+Seviper 				Muta, Intrapasso, Spietatezza (*)
+Solrock, Lunatone 			Levitazione, Testadura
+Baltoy, Claydol 			Levitazione, Rompiforma
+Chingling, Chimecho			Levitazione, Sweetbell
+Dusclops, Dusknoir 			Indagine, Ferropugno (*)
+Regirock				Corpochiaro, Vigore, Rock Regeneration
+Regice					Corpochiaro, Corpogelo, Glacialbody
+Registeel				Corpochiaro, Metallegero, Metal Resistance
+Latias, Latios				Levitazione, Leggiadro
+Kyogre					Piovischio, Legendary
+Groudon					Siccità, Legendary
+Rayquaza				Riparo, Legendary
+
+Turtwig, Grotle, Torterra		Erbaiuto, Guscioscudo, Protective Shell
+Chatot					Sguardofermo, Intricopiedi, Pettinfuori, Parrot (**)
+Carnivine				Levitazione, Bug Eater
+Magmortar				Corpodifuoco, Spiritovivo, Cannonbody
+Froslass				Mantelneve, Corpofunesto, Freezing Breath
+Rotom 					Levitazione, Elettrorapid, Device Control
+- Rotom ERBA				Levitazione, Elettrorapid, Lawnmower
+- Rotom FUOCO				Levitazione, Elettrorapid, Corpodifuoco (*)
+- Rotom ACQUA				Levitazione, Elettrorapid, Laundryday
+- Rotom VOLANTE				Levitazione, Elettrorapid, Airflow
+- Rotom GHIACCIO			Levitazione, Elettrorapid, Freezebreath
+Uxie, Mesprit, Azelf 			Levitazione, Telepatia
+Palkia, Dialga, Giratina		Telepatia, Legendary
+- Giratina Forma Origine		Telepatia, Legendary, Levitazione, 
+Cresselia 				Levitazione, Sweetdreams
+Regigigas				Lentinizio, Elemental Master, Legendary
+Heatran					Fuocardore, Corpodifuoco, Rock Melting
+Arceus					Multitipo, Legendary, Omnipotent
+
+Oshawott, Dewott, Samurott		Acquaiuto, Guscioscudo, Swordsmanship
+Tirtouga, Carracosta			Solidroccia, Vigore, Nuotovelox, Protective Shell
+Tynamo, Eelektrik, Eelektross 		Levitazione, Elettrorapid, Assorbivolt
+Pawniard, Bisharp			Agonismo, Forza Interiore, Pressione, Swordsmanship
+Archen, Archeops 			Sconforto (**), Pellecielo (*)
+Cryogonal				Levitazione, Freezing Breath
+Volcarona 				Corpodifuoco, Aiutinsetto, Siccità (*)
+Hydreigon 				Levitazione, Prepotenza
+Reshiram				Piroturbina, Legendary
+Zekrom					Teravolt, Legendary
+Kyurem					Legendary
+- Kyurem Bianco				Legendary, Piroturbina
+- Kyurem Nero				Legendary, Teravolt
+Genesect				Download, Cannonbody
+
+Chesnaught				Erbaiuto, Antiproiettile, Spikybody
+Braixen, Delphox			Aiutofuoco, Prestigiatore, Spellcaster
+Honedge, Doublade			Nullodifesa, Swordsmanship
+Aegislash				Accendilotta (**), Swordsmanship
+Xerneas					Aurafolletto, Legendary
+Yveltal					Auratetra, Legendary
+Zygarde					Sciamefusione, Frangiaura
+- Zygarde 100%				Sciamefusione, Frangiaura, Legendary
+
+Golisopod				Passoindietro (**), Swordsmanship
+Turtonator				Guscioscudo, Protective Shell
+Solgaleo				Metalprotezione, Legendary
+Lunala					Spettroguardia, Legendary
+Guzzlord				Ultraboost, Legendary
+
+Zacian					Spada Intrepida, Swordsmanship, Legendary
+Zamasenta				Scudo Intrepido, Legendary
+Eternatus				Legendary
+
+Abilità in italiano con l'asterisco a fianco (*) sono abilità già esistenti inserite nel pool di abilità possibili
+Abilità con due asterischi a fianco (**) sono abilità che a prescindere dalla generazione casuale sono sempre attive. 
+	- Levitazione è sempre attiva
+	- I leggendari hanno tutte le abilità sbloccate fin da subito
+A tutti i Pokemon con levitazione è stata aggiunta almeno una abilità extra
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Mosse aggiunte ai moveset
+Staryu, Starmie: Pancianburo
+Elekid, Electabuzz, Electivire: Pugnorapido, Zuffa, Extrarapido
+Slakoth, Vigoroth, Slaking: Carineria, Granvoce
+Absol: Dragartigli
+
+Nuove Mosse
+
+Steady Scale	Tipo Drago	Stato		Aumenta di un livello Dif e Sp. Dif
+Meteor Rain	Tipo Roccia	Speciale	10-150 BP 100% (Magnitudo)	Può scottare
+Meteor Strike	Tipo Roccia	Speciale	110 BP 100% 			Può scottare
+Sandfury	Tipo Terra	Speciale	110 BP 85% (100% con sabbia)	Può colpire chi levita
+Waterjet	Tipo Acqua	Speciale	100 BP 100%			Super su acciaio	Esclusiva di Blastoise (?)
+Time Flow	Tipo Psico	Speciale	120 BP 100%			Ignora protezione	Esclusiva di Celebi
+Darkness Cast	Tipo Psico	Speciale	100 BP 100%			Super su Buio		Esclusiva di Cresselia
+Blackhole	Tipo Psico	Speciale	130 BP 100%			Perde il tipo psico	Esclusiva di Gardevoir
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Baby Tangela	-> Tangela			Liv.18
+Tangela		-> Evo Erba/Acqua		Liv.40
+Pesce		-> Squalo Acqua/Buio		Liv.32
+Pesce		-> Pesce abissi	Acqua/Elettro	Pietratuono
+Golbat		-> Crobat			Liv.44
+Ditto		-> Evo Normale/Acciaio		Salire di livello con la metalcoperta
+Shellder	-> Shellder Acqua/Roccia	Slowpoke in squadra
+Tigre		-> Tigre più grande		Liv.35
+Tigre più grande-> Cane elettro			Non lo so
+Chansey		-> Blissey			Liv.45
+Scyther		-> Scizor			Salire di livello con la metalcoperta
+Pinsir		-> Evo pinsir 			Liv.42
+Onix		-> Steelix			Salire di livello con la metalcoperta
+
+Stankyyy Titan016
+
+(6x^2 m -19xm +m^2 -2x^3 +9x^2 -1)/m^2 and x=-0.32201
+
+Tangby (Erba)
+Clorofilla, Fogliamanto, Rigenergia
+PS 50, Atk: 50, Difesa: 80, Atk Sp: 50, Difesa Sp: 35, Velocità: 50
+
+Tangela
+Clorofilla, Fogliamanto, Rigenergia
+PS 65, Atk: 55, Difesa: 115, Atk Sp: 100, Difesa Sp: 40, Velocità: 60
+
+Tangrowth
+Clorofilla, Fogliamanto, Rigenergia
+PS 100, Atk: 100, Difesa: 125, Atk Sp: 110, Difesa Sp: 50, Velocità: 50
+
+Tangkelp (Erba/Acqua)
+Clorofilla, Copripioggia, Rigenergia
+PS 80, Atk: 75, Difesa: 55, Atk Sp: 130, Difesa Sp: 125, Velocità: 70
